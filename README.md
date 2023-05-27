@@ -1,2 +1,2 @@
 ﻿# herta kuru
-[Home Page](https://lanitakun.me)
+[Pagina principal](https://lanitakun.me)
